@@ -23,6 +23,10 @@ airline-passenger-satisfaction/
 
 ## Methodology
 
+### The ML pipeline
+
+<img width="2323" height="870" alt="image" src="https://github.com/user-attachments/assets/fd0a27fa-1944-41bd-87ae-4c570f0851a9" />
+
 ### Exploratory Data Analysis
 
 - Identified missingness mechanisms and hidden missingness among multiple features.
