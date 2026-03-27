@@ -1,6 +1,6 @@
 # ✈️ Airline Passenger Satisfaction Analysis & Prediction
 
-A machine learning project that identfies travel class, inflight entertainment, seat comfort and ease of online booking as the most important factors in customer (dis)satisfaction, with predictive machine learning accuracy of 91%.
+A machine learning project that identfies travel class, inflight entertainment, seat comfort and ease of online booking as the most important factors in customer (dis)satisfaction, with predictive machine learning accuracy of **91%**.
 
 ## Overview
 
