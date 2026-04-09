@@ -55,7 +55,7 @@ This project analyses airline passenger satisfaction using KNIME, combining EDA,
   * number of trees
   * maximum tree depth
   * minimum node size
-* Cross validation on train data, without holdout test set
+* Cross validation on train data, with holdout test set
 * Excellent performance
 
 ---
