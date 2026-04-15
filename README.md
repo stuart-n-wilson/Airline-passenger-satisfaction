@@ -18,8 +18,8 @@ This project analyses airline passenger satisfaction using KNIME, combining EDA,
 
 | Model                 | Accuracy  | ROC-AUC   |
 | --------------------- | --------- | --------- |
-| Decision Tree         | 0.881     | 0.942     |
-| Random Forest (tuned) | **0.909** | **0.971** |
+| Decision Tree         | **0.923**     | 0.935     |
+| Random Forest (tuned) | 0.909 | **0.971** |
 
 ---
 
